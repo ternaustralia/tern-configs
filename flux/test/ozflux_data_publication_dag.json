@@ -1,0 +1,59 @@
+{
+    "AdelaideRiver": {
+        "site_folder": "AdelaideRiver",
+        "parent_metadata_uuid": "51742ce7-c996-4ac7-93da-10c5b27afd6d",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/cbe3ee88-a007-4d10-b58e-ff6cc602b9b3",
+                "name": "AdelaideRiver",
+                "file_prefixes": ["AdelaideRiver"]
+            }
+        ]
+    },
+    "AliceSpringsMulga": {
+        "site_folder": "AliceMulga",
+        "parent_metadata_uuid": "888ba337-c58f-4f8c-9438-7c4356e947df",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/fd2809a2-e705-4961-b09c-7e9ae1ffa87e",
+                "name": "AliceSpringsMulga",
+                "file_prefixes": ["AliceSpringsMulga1", "AliceSpringsMulga2"]
+            }
+        ]
+    },
+    "Boyagin": {
+        "site_folder": "Boyagin",
+        "parent_metadata_uuid": "affb7f21-a202-417b-b66f-8736067ed9c8",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/5c711072-4336-4f70-a51d-c16e13d06f9c",
+                "name": "Boyagin",
+                "file_prefixes": ["Boyagin"]
+            }
+        ]
+    },
+    "CalperumChowilla": {
+        "site_folder": "Calperum",
+        "parent_metadata_uuid": "bfcba630-a27a-426d-a931-f2c6ac785c48",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/944be073-1ac3-4b3f-affb-080c7c08af5e",
+                "file_prefixes": ["Calperum"]
+            }
+        ]
+    },
+    "WombatStateForest": {
+        "site_folder": "WombatForest",
+        "parent_metadata_uuid": "406f54f8-bf35-482c-bbfe-bdf03b5a408e",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/d37bd453-10c6-44d0-8ff8-ffdf2bbe3b5f",
+                "file_prefixes": ["WombatForest1"]
+            },
+            {
+                "uri": "https://w3id.org/tern/resources/bf3daf01-0e7a-4e18-aa9d-460be3fe06cc",
+                "file_prefixes": ["WombatForest2"]
+            }
+        ]
+    }
+}

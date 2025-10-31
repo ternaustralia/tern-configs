@@ -1,11 +1,11 @@
 {
     "AdelaideRiver": {
         "site_folder": "AdelaideRiver",
+        "alias": "Adelaide River",
         "parent_metadata_uuid": "51742ce7-c996-4ac7-93da-10c5b27afd6d",
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/cbe3ee88-a007-4d10-b58e-ff6cc602b9b3",
-                "name": "AdelaideRiver",
                 "file_prefixes": ["AdelaideRiver"]
             }
         ]
@@ -16,7 +16,6 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/fd2809a2-e705-4961-b09c-7e9ae1ffa87e",
-                "name": "AliceSpringsMulga",
                 "file_prefixes": ["AliceSpringsMulga1", "AliceSpringsMulga2"]
             }
         ]
@@ -27,7 +26,6 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/5c711072-4336-4f70-a51d-c16e13d06f9c",
-                "name": "Boyagin",
                 "file_prefixes": ["Boyagin"]
             }
         ]
@@ -42,6 +40,314 @@
             }
         ]
     },
+    "CapeTribulation": {
+        "site_folder": "CapeTribulation",
+        "alias": "Cape Tribulation",
+        "parent_metadata_uuid": "93245a35-9504-4540-b2bf-6d3f5b997800",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/03407de6-767d-49f0-925d-f8855603e6ea",
+                "file_prefixes": ["CapeTribulation"]
+            }
+        ]
+    },
+    "Collie": {
+        "site_folder": "Collie",
+        "parent_metadata_uuid": "241ed647-36ff-470d-9f44-960c73853626",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/3baed77a-a547-4c86-beda-6bc096e6964c",
+                "file_prefixes": ["Collie"]
+            }
+        ]
+    },
+    "CowBay": {
+        "site_folder": "CowBay",
+        "alias": "Cow Bay",
+        "parent_metadata_uuid": "8707c581-755e-4408-b54f-9eb9c14bca24",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/5eeb3010-59ad-4c6a-9fa6-388438199c53",
+                "file_prefixes": ["CowBay"]
+            }
+        ]
+    },
+    "CumberlandPlain": {
+        "site_folder": "CumberlandPlain",
+        "alias": "AU-Cum",
+        "parent_metadata_uuid": "dbb0132d-15d9-47e4-bf29-711bffd87540",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/f6ec7f3f-bbeb-4f8f-9fba-a74aec2e1769",
+                "file_prefixes": ["CumberlandPlain"]
+            }
+        ]
+    },
+    "DalyPasture": {
+        "site_folder": "DalyPasture",
+        "alias": "Daly Pasture",
+        "parent_metadata_uuid": "9da7ad97-de99-47b0-b131-9d2fa7f0aabb",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/ce7d2ead-be5e-428b-995f-89c9a9b6b687",
+                "file_prefixes": ["DalyPasture"]
+            }
+        ]
+    },
+    "DalyUncleared": {
+        "site_folder": "DalyUncleared",
+        "alias": "Daly Uncleared",
+        "parent_metadata_uuid": "83c3f46f-bd61-4b25-9010-5fea426228e4",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/da0668da-cd77-412b-920e-fe334905d406",
+                "file_prefixes": ["DalyUncleared"]
+            }
+        ]
+    },
+    "DryRiver": {
+        "site_folder": "DryRiver",
+        "alias": "Dry River",
+        "parent_metadata_uuid": "f5d2698d-6f9e-46b7-8902-4a9eb5919b14",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/f4b5f124-8a06-4eef-b4b8-345223856786",
+                "file_prefixes": ["DryRiver"]
+            }
+        ]
+    },
+    "Emerald": {
+        "site_folder": "Emerald",
+        "alias": "Arcturus",
+        "parent_metadata_uuid": "5bad9ba0-4e2f-4fc4-9b52-597648288afc",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/2194b047-0fd0-4ce4-af37-45e0c122412c",
+                "file_prefixes": ["Emerald"]
+            }
+        ]
+    },
+    "Fletcherview": {
+        "site_folder": "Fletcherview",
+        "alias": "FletcherviewTropicalRangeland",
+        "parent_metadata_uuid": "f1c334bd-345f-4169-b36b-bb2bce97bbcb",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/d72fe730-721a-43db-8606-fa8ab87f15bd",
+                "file_prefixes": ["FletcherviewTropicalRangeland"]
+            }
+        ]
+    },
+    "FoggDam": {
+        "site_folder": "FoggDam",
+        "alias": "Fogg Dam",
+        "parent_metadata_uuid": "Fogg Dam Flux Data Collection",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/af6bc58f-6a55-4ff8-a034-d61b47b04f0c",
+                "file_prefixes": ["FoggDam"]
+            }
+        ]
+    },
+    "Gingin": {
+        "site_folder": "Gingin",
+        "parent_metadata_uuid": "3cda0c5b-6826-4a4a-a212-c2f707c2448f",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/85357141-0361-41fe-9708-2c535c50e749",
+                "file_prefixes": ["Gingin"]
+            }
+        ]
+    },
+    "GreatWesternWoodlands": {
+        "site_folder": "GreatWesternWoodlands",
+        "alias": "GWW",
+        "parent_metadata_uuid": "95c76129-efa2-4d76-bf26-b314e7274f1e",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/32400f05-a972-421b-9db1-cde04e8034d9",
+                "file_prefixes": ["GreatWesternWoodlands"]
+            }
+        ]
+    },
+    "HowardSprings": {
+        "site_folder": "HowardSprings",
+        "alias": "Howard Springs",
+        "parent_metadata_uuid": "eb92b2bd-3484-4350-a03b-d76760e0bf03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/2b9313de-1545-4701-9e5e-ac851f290853",
+                "file_prefixes": ["HowardSprings"]
+            }
+        ]
+    },
+    "Litchfield": {
+        "site_folder": "Litchfield",
+        "parent_metadata_uuid": "ed38338a-7678-44db-bba2-71864182e77a",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/1b0227a2-6bbe-4579-9dba-6ee4033e8169",
+                "file_prefixes": ["Litchfield"]
+            }
+        ]
+    },
+    "LongreachMitchellGrassRangeland": {
+        "site_folder": "MitchellGrassRangeland",
+        "alias": "Longreach",
+        "parent_metadata_uuid": "66f65fb3-bde9-4fb3-92d3-7738b5668db4",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/9989b745-934a-43c9-b01a-1e7737635c72",
+                "file_prefixes": ["Longreach"]
+            }
+        ]
+    },
+    "Loxton": {
+        "site_folder": "Loxton",
+        "parent_metadata_uuid": "37c7bfdf-202c-463a-bbe8-a3f9db2e2766",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/e44adcc9-c2ef-4d54-8b74-e05bb9f4eaba",
+                "file_prefixes": ["Loxton"]
+            }
+        ]
+    },
+    "Otway": {
+        "site_folder": "Otway",
+        "parent_metadata_uuid": "031eaac5-602d-44e2-848c-c20e21f120fa",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/0934a8a1-f10d-4264-ac87-65760d913f42",
+                "file_prefixes": ["Otway"]
+            }
+        ]
+    },
+    "RedDirtMelonFarm": {
+        "site_folder": "RedDirtMelonFarm",
+        "parent_metadata_uuid": "ce206868-d48a-447b-a828-09f5080b76c7",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/d724c80f-349c-4e99-8c47-d982ac228ec7",
+                "file_prefixes": ["RedDirtMelonFarm"]
+            }
+        ]
+    },
+    "Ridgefield": {
+        "site_folder": "Ridgefield",
+        "alias": "Red Dirt Melon Farm",
+        "parent_metadata_uuid": "8b9448c9-e28b-49a9-9317-dac0626fd005",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/f4da99de-52bd-4041-b6c4-c77b8c9f15ec",
+                "file_prefixes": ["Ridgefield"]
+            }
+        ]
+    },
+    "RiggsCreek": {
+        "site_folder": "RiggsCreek",
+        "alias": "Riggs Creek",
+        "parent_metadata_uuid": "8cf89980-24c4-467c-8f06-1d1cc8060d13",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/340b9bbc-52de-4609-a6df-417924e18f61",
+                "file_prefixes": ["RiggsCreek"]
+            }
+        ]
+    },
+    "RobsonCreek": {
+        "site_folder": "RobsonCreek",
+        "alias": "Robson Creek",
+        "parent_metadata_uuid": "ebe0f735-57e8-4064-be75-9023b0ac4302",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/a452c22a-d60a-47ea-9f04-01c4407b7d2f",
+                "file_prefixes": ["RobsonCreek"]
+            }
+        ]
+    },
+    "SamfordEcologicalResearchFacility": {
+        "site_folder": "SamfordPeriUrban",
+        "alias": "Samford",
+        "parent_metadata_uuid": "88abf22f-a6ce-4b32-9756-7304343d5e0a",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/c15e9a28-28c4-463f-b164-44b39112d76c",
+                "file_prefixes": ["Samford"]
+            }
+        ]
+    },
+    "SilverPlains": {
+        "site_folder": "SilverPlains",
+        "parent_metadata_uuid": "e2927e51-05db-4f83-8e51-5a68a54139f6",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/323b884e-52d6-4e58-b212-b7c85cfb874b",
+                "file_prefixes": ["SilverPlains"]
+            }
+        ]
+    },
+    "SturtPlains": {
+        "site_folder": "SturtPlains",
+        "alias": "Sturt Plains",
+        "parent_metadata_uuid": "5ab3f01b-5923-41ea-af27-ce1af58718e6",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/76c37f54-79be-42b5-94e4-6fa015c32cce",
+                "file_prefixes": ["SturtPlains"]
+            }
+        ]
+    },
+    "TiTreeEast": {
+        "site_folder": "TiTreeEast",
+        "parent_metadata_uuid": "0596cb85-3bfa-4495-ad88-cc7be60a31d5",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/1fa3e3bf-7d9a-448f-b6cd-0830dd4fe0ba",
+                "file_prefixes": ["TiTreeEast"]
+            }
+        ]
+    },
+    "Tumbarumba": {
+        "site_folder": "Tumbarumba",
+        "parent_metadata_uuid": "0c7bcfb8-63eb-47f5-bd07-e6f93acca003",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/6b20fe55-0889-4f0a-9e56-2c147f5bd547",
+                "file_prefixes": ["Tumbarumba"]
+            }
+        ]
+    },
+    "WallabyCreek": {
+        "site_folder": "WallabyCreek",
+        "alias": "Wallaby",
+        "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/409cec19-4006-44bd-a057-b1d378b92eac",
+                "file_prefixes": ["WallabyCreek"]
+            }
+        ]
+    },
+    "Warra": {
+        "site_folder": "Warra",
+        "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/c882ded6-0cb5-493a-939b-fd609706823e",
+                "file_prefixes": ["Warra"]
+            }
+        ]
+    },
+    "Whroo": {
+        "site_folder": "Whroo",
+        "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/b512e2dc-98a6-40d5-a91c-ad8f47d1ace7",
+                "file_prefixes": ["Whroo"]
+            }
+        ]
+    },
     "WombatStateForest": {
         "site_folder": "WombatForest",
         "parent_metadata_uuid": "406f54f8-bf35-482c-bbfe-bdf03b5a408e",
@@ -53,6 +359,69 @@
             {
                 "uri": "https://w3id.org/tern/resources/bf3daf01-0e7a-4e18-aa9d-460be3fe06cc",
                 "file_prefixes": ["WombatForest2"]
+            }
+        ]
+    },
+    "Yanco": {
+        "site_folder": "Yanco",
+        "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/eba13c16-2dac-49ba-b8f4-fed55b8657ab",
+                "file_prefixes": ["Yanco"]
+            }
+        ]
+    },
+    "AlpinePeatland": {
+        "site_folder": "AlpinePeatland",
+        "alias": "Alpine Peatland",
+        "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/77df3c32-a853-4bed-ad13-192c639288c8",
+                "file_prefixes": ["AlpinePeatland"]
+            }
+        ]
+    },
+    "GatumPasture": {
+        "site_folder": "GatumPasture",
+        "parent_metadata_uuid": "23d900bf-a96c-4594-a321-c4b07c417c5c",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/11760d31-24f1-4dfb-951b-93077342986d",
+                "file_prefixes": ["GatumPasture"]
+            }
+        ]
+    },
+    "DigbyPlantation": {
+        "site_folder": "DigbyPlantation",
+        "parent_metadata_uuid": "868e5485-67bb-4424-af73-66c6ec5fa247",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/75e21b5c-d455-4574-b24e-98ccd1e02d6f",
+                "file_prefixes": ["DigbyPlantation"]
+            }
+        ]
+    },
+    "YarramundiControl": {
+        "site_folder": "YarramundiControl",
+        "alias": "YarCon",
+        "parent_metadata_uuid": "3ec2e557-4d21-4c06-8781-c3558e0d5cfb",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/304f1968-1a8a-4acb-a8ab-283a9bea9338",
+                "file_prefixes": ["YarramundiControl"]
+            }
+        ]
+    },
+    "YarramundiIrrigated": {
+        "site_folder": "YarramundiIrrigated",
+        "alias": "YarIrr",
+        "parent_metadata_uuid": "7967dc2d-3a00-4ebe-a603-0fc0b36a4c43",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/589c42b2-7d94-4ebc-b4c7-54b815dc1312",
+                "file_prefixes": ["YarramundiIrrigated"]
             }
         ]
     }

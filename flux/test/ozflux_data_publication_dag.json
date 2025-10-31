@@ -1,11 +1,11 @@
 {
     "AdelaideRiver": {
         "site_folder": "AdelaideRiver",
+        "alias": "Adelaide River",
         "parent_metadata_uuid": "51742ce7-c996-4ac7-93da-10c5b27afd6d",
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/cbe3ee88-a007-4d10-b58e-ff6cc602b9b3",
-                "name": "AdelaideRiver",
                 "file_prefixes": ["AdelaideRiver"]
             }
         ]
@@ -16,7 +16,6 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/fd2809a2-e705-4961-b09c-7e9ae1ffa87e",
-                "name": "AliceSpringsMulga",
                 "file_prefixes": ["AliceSpringsMulga1", "AliceSpringsMulga2"]
             }
         ]

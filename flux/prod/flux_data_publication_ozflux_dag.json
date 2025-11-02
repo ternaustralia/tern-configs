@@ -224,6 +224,7 @@
     },
     "RedDirtMelonFarm": {
         "site_folder": "RedDirtMelonFarm",
+        "alias": "Red Dirt Melon Farm",
         "parent_metadata_uuid": "ce206868-d48a-447b-a828-09f5080b76c7",
         "towers": [
             {
@@ -234,7 +235,6 @@
     },
     "Ridgefield": {
         "site_folder": "Ridgefield",
-        "alias": "Red Dirt Melon Farm",
         "parent_metadata_uuid": "8b9448c9-e28b-49a9-9317-dac0626fd005",
         "towers": [
             {

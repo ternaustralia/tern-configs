@@ -1,7 +1,7 @@
 {
     "AdelaideRiver": {
         "site_folder": "AdelaideRiver",
-        "alias": "Adelaide River",
+        "alias": ["Adelaide River"],
         "parent_metadata_uuid": "51742ce7-c996-4ac7-93da-10c5b27afd6d",
         "towers": [
             {
@@ -42,7 +42,7 @@
     },
     "CapeTribulation": {
         "site_folder": "CapeTribulation",
-        "alias": "Cape Tribulation",
+        "alias": ["Cape Tribulation"],
         "parent_metadata_uuid": "93245a35-9504-4540-b2bf-6d3f5b997800",
         "towers": [
             {
@@ -63,7 +63,7 @@
     },
     "CowBay": {
         "site_folder": "CowBay",
-        "alias": "Cow Bay",
+        "alias": ["Cow Bay"],
         "parent_metadata_uuid": "8707c581-755e-4408-b54f-9eb9c14bca24",
         "towers": [
             {
@@ -74,7 +74,7 @@
     },
     "CumberlandPlain": {
         "site_folder": "CumberlandPlain",
-        "alias": "AU-Cum",
+        "alias": ["AU-Cum"],
         "parent_metadata_uuid": "dbb0132d-15d9-47e4-bf29-711bffd87540",
         "towers": [
             {
@@ -85,7 +85,7 @@
     },
     "DalyPasture": {
         "site_folder": "DalyPasture",
-        "alias": "Daly Pasture",
+        "alias": ["Daly Pasture"],
         "parent_metadata_uuid": "9da7ad97-de99-47b0-b131-9d2fa7f0aabb",
         "towers": [
             {
@@ -96,7 +96,7 @@
     },
     "DalyUncleared": {
         "site_folder": "DalyUncleared",
-        "alias": "Daly Uncleared",
+        "alias": ["Daly Uncleared"],
         "parent_metadata_uuid": "83c3f46f-bd61-4b25-9010-5fea426228e4",
         "towers": [
             {
@@ -107,7 +107,7 @@
     },
     "DryRiver": {
         "site_folder": "DryRiver",
-        "alias": "Dry River",
+        "alias": ["Dry River"],
         "parent_metadata_uuid": "f5d2698d-6f9e-46b7-8902-4a9eb5919b14",
         "towers": [
             {
@@ -118,7 +118,7 @@
     },
     "Emerald": {
         "site_folder": "Emerald",
-        "alias": "Arcturus",
+        "alias": ["Arcturus"],
         "parent_metadata_uuid": "5bad9ba0-4e2f-4fc4-9b52-597648288afc",
         "towers": [
             {
@@ -129,7 +129,7 @@
     },
     "Fletcherview": {
         "site_folder": "Fletcherview",
-        "alias": "FletcherviewTropicalRangeland",
+        "alias": ["FletcherviewTropicalRangeland"],
         "parent_metadata_uuid": "f1c334bd-345f-4169-b36b-bb2bce97bbcb",
         "towers": [
             {
@@ -140,7 +140,7 @@
     },
     "FoggDam": {
         "site_folder": "FoggDam",
-        "alias": "Fogg Dam",
+        "alias": ["Fogg Dam"],
         "parent_metadata_uuid": "Fogg Dam Flux Data Collection",
         "towers": [
             {
@@ -161,7 +161,7 @@
     },
     "GreatWesternWoodlands": {
         "site_folder": "GreatWesternWoodlands",
-        "alias": "GWW",
+        "alias": ["GWW"],
         "parent_metadata_uuid": "95c76129-efa2-4d76-bf26-b314e7274f1e",
         "towers": [
             {
@@ -172,7 +172,7 @@
     },
     "HowardSprings": {
         "site_folder": "HowardSprings",
-        "alias": "Howard Springs",
+        "alias": ["Howard Springs"],
         "parent_metadata_uuid": "eb92b2bd-3484-4350-a03b-d76760e0bf03",
         "towers": [
             {
@@ -193,7 +193,7 @@
     },
     "LongreachMitchellGrassRangeland": {
         "site_folder": "MitchellGrassRangeland",
-        "alias": "Longreach",
+        "alias": ["Longreach"],
         "parent_metadata_uuid": "66f65fb3-bde9-4fb3-92d3-7738b5668db4",
         "towers": [
             {
@@ -224,7 +224,7 @@
     },
     "RedDirtMelonFarm": {
         "site_folder": "RedDirtMelonFarm",
-        "alias": "Red Dirt Melon Farm",
+        "alias": ["Red Dirt Melon Farm"],
         "parent_metadata_uuid": "ce206868-d48a-447b-a828-09f5080b76c7",
         "towers": [
             {
@@ -245,7 +245,7 @@
     },
     "RiggsCreek": {
         "site_folder": "RiggsCreek",
-        "alias": "Riggs Creek",
+        "alias": ["Riggs Creek"],
         "parent_metadata_uuid": "8cf89980-24c4-467c-8f06-1d1cc8060d13",
         "towers": [
             {
@@ -256,7 +256,7 @@
     },
     "RobsonCreek": {
         "site_folder": "RobsonCreek",
-        "alias": "Robson Creek",
+        "alias": ["Robson Creek"],
         "parent_metadata_uuid": "ebe0f735-57e8-4064-be75-9023b0ac4302",
         "towers": [
             {
@@ -267,7 +267,7 @@
     },
     "SamfordEcologicalResearchFacility": {
         "site_folder": "SamfordPeriUrban",
-        "alias": "Samford",
+        "alias": ["Samford"],
         "parent_metadata_uuid": "88abf22f-a6ce-4b32-9756-7304343d5e0a",
         "towers": [
             {
@@ -288,7 +288,7 @@
     },
     "SturtPlains": {
         "site_folder": "SturtPlains",
-        "alias": "Sturt Plains",
+        "alias": ["Sturt Plains"],
         "parent_metadata_uuid": "5ab3f01b-5923-41ea-af27-ce1af58718e6",
         "towers": [
             {
@@ -319,7 +319,7 @@
     },
     "WallabyCreek": {
         "site_folder": "WallabyCreek",
-        "alias": "Wallaby",
+        "alias": ["Wallaby"],
         "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
         "towers": [
             {
@@ -374,7 +374,7 @@
     },
     "AlpinePeatland": {
         "site_folder": "AlpinePeatland",
-        "alias": "Alpine Peatland",
+        "alias": ["Alpine Peatland"],
         "parent_metadata_uuid": "596d22f4-e43c-4af0-850e-0be6e26a1d03",
         "towers": [
             {
@@ -405,7 +405,7 @@
     },
     "YarramundiControl": {
         "site_folder": "YarramundiControl",
-        "alias": "YarCon",
+        "alias": ["YarCon"],
         "parent_metadata_uuid": "3ec2e557-4d21-4c06-8781-c3558e0d5cfb",
         "towers": [
             {
@@ -416,7 +416,7 @@
     },
     "YarramundiIrrigated": {
         "site_folder": "YarramundiIrrigated",
-        "alias": "YarIrr",
+        "alias": ["YarIrr"],
         "parent_metadata_uuid": "7967dc2d-3a00-4ebe-a603-0fc0b36a4c43",
         "towers": [
             {

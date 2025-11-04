@@ -1,7 +1,7 @@
 {
     "AdelaideRiver": {
         "site_folder": "AdelaideRiver",
-        "alias": "Adelaide River",
+        "alias": ["Adelaide River"],
         "parent_metadata_uuid": "51742ce7-c996-4ac7-93da-10c5b27afd6d",
         "towers": [
             {

@@ -272,7 +272,7 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/c15e9a28-28c4-463f-b164-44b39112d76c",
-                "file_prefixes": ["Samford"]
+                "file_prefixes": ["Samford1", "Samford2"]
             }
         ]
     },
@@ -303,7 +303,7 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/1fa3e3bf-7d9a-448f-b6cd-0830dd4fe0ba",
-                "file_prefixes": ["TiTreeEast"]
+                "file_prefixes": ["TiTreeEast1", "TiTreeEast2"]
             }
         ]
     },
@@ -313,7 +313,7 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/6b20fe55-0889-4f0a-9e56-2c147f5bd547",
-                "file_prefixes": ["Tumbarumba"]
+                "file_prefixes": ["Tumbarumba1", "Tumbarumba2"]
             }
         ]
     },
@@ -344,7 +344,7 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/b512e2dc-98a6-40d5-a91c-ad8f47d1ace7",
-                "file_prefixes": ["Whroo"]
+                "file_prefixes": ["Whroo1", "Whroo2"]
             }
         ]
     },

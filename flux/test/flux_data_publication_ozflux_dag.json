@@ -26,7 +26,6 @@
         "towers": [
             {
                 "uri": "https://w3id.org/tern/resources/5c711072-4336-4f70-a51d-c16e13d06f9c",
-                "name": "Boyagin",
                 "file_prefixes": ["Boyagin"]
             }
         ]

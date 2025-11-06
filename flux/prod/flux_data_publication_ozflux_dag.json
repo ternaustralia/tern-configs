@@ -233,6 +233,28 @@
             }
         ]
     },
+"MyallValeA": {
+        "site_folder": "MyallValeA",
+        "parent_metadata_uuid": "a466d85c-3fac-47ca-81e0-d4b3bb25cbcc",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/8bc01515-8a8c-4c0b-971e-e2b9dad05bd6",
+                "file_prefixes": ["MyallValeA"]
+            }
+        ]
+    },
+    
+"MyallValeB": {
+        "site_folder": "MyallValeB",
+        "parent_metadata_uuid": "f035915e-51b3-4e3f-b3b2-6526a278ba94",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/12611963-123d-46ca-8a7c-ca6de4d12e8f",
+                "file_prefixes": ["MyallValeB"]
+            }
+        ]
+    },
+    
     "RedDirtMelonFarm": {
         "site_folder": "RedDirtMelonFarm",
         "alias": ["Red Dirt Melon Farm"],

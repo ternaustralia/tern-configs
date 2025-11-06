@@ -20,6 +20,19 @@
             }
         ]
     },
+    {
+    "SnowGum": {
+        "site_folder": "SnowGum",
+        "alias": ["Aqueduct Snow Gum"],
+        "parent_metadata_uuid": "90a5399e-493b-4867-ad89-2429348f7618",
+        "towers": [
+            {
+                "uri": "https://w3id.org/tern/resources/7b99bea8-eb8f-43e2-9726-919728120678",
+                "file_prefixes": ["SnowGum"]
+            }
+        ]
+    },
+
     "Boyagin": {
         "site_folder": "Boyagin",
         "parent_metadata_uuid": "affb7f21-a202-417b-b66f-8736067ed9c8",
